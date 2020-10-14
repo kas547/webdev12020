@@ -75,4 +75,14 @@ body {
 
   }
 
+  img {
+      max-width:200px;
+      
+  }
+
+  h6 {
+      max-width: 300px; 
+
+  }
+
   
