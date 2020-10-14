@@ -1,3 +1,78 @@
 h1 {
-    color:red;
+    color:green;
 }
+
+h1 {
+    text-align: centered;
+}
+
+body {
+    background: #FB5C00;
+  }
+
+  h1 { 
+      text-align: center;}
+  
+
+  h2 {
+      text-align: center;
+  }
+
+  h2 {
+      font-family: cursive;
+  }
+
+  
+
+  div {
+      font-size: 45px;
+
+
+  }
+
+  .thick-black-border {
+      border-color: black;
+  }
+
+
+  div {
+      text-align: center;
+  }
+
+   
+  h4 {
+      text-align: right;
+  }
+
+  h5 {
+      font-family: cursive;
+      font-size: 50px;
+
+  }
+  
+  h6 {
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-size: 60px;
+
+
+  }
+
+
+  h7 {
+    background: green;
+    height: 100px;
+    width: 40;
+    margin: 0 auto;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+ 
+  p {
+      font-size: 18px;
+      height: 90px;
+
+  }
+
+  
