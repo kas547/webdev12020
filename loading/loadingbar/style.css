@@ -6,3 +6,22 @@ h1 {
     text-align: center;
 }
 
+
+body {
+    margin: 0;
+    padding: 0;
+    background: ##92a8d;
+    height: 66vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.loadingbar {
+    width: 400px;
+    height: 340px;
+    box-sizing: border-box;
+    border-radius: 55px;
+    
+}
