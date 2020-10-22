@@ -1,0 +1,8 @@
+ div {
+    width: 500px;
+    height: 600px;
+    background: violet;
+    transition: width 7s;
+  }
+
+

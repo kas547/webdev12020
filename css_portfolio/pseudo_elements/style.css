@@ -1,0 +1,7 @@
+h3::before {
+    content: sand;
+  }
+
+h3::after {
+    content: snow;
+  }
