@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
+
+* {
+  margin: 45px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+body {
+  background: purple;
+}
+
+.modal {
+  color: pink;
+  max-width: 1600px;
+  max-height: 1200px;
+  position: absolute;
+  top: 45%;
+  left: 30%;
+  transform: translate(-15%, -30%);
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.modal__close {
+  position: absolute;
+  font-size: 24px
+  top: 3;
+  transform: rotateZ(70deg);
+  font-weight: 200;
+}
+
+.modal__close:hover {
+  color: lime;
+  cursor: pointer;
+}
+
+.modal__message {
+  text-align: center;
+  font-family: 'Cutive Mono', monospace;
+  background: yellow;
+  border-radius: .60em;
+  border: 30px solid lightblue;
+}
